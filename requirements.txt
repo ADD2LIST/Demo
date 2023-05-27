@@ -1,0 +1,12 @@
+
+python-dotenv
+
+ytthumb
+
+pyrogram
+
+
+
+
+
+
