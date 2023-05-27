@@ -2,7 +2,7 @@
 from dotenv import load_dotenv
 
 import ytthumb
-from pyrogram import Client, filters
+from pyrogram import Client, Filters
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery, InputMediaPhoto
 
 load_dotenv()
